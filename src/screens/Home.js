@@ -26,14 +26,20 @@ const Home = ({ navigation }) => {
         <TouchableOpacity 
           onPress={() => navigation.navigate('LoginStudent')}
           style={styles.buttonStyle}>
-          <Text style={{color:'#000000', textAlign:'center'}}>STUDENT</Text>
+          <Text style={{
+            color:'#000000', 
+            textAlign:'center',
+            fontWeight:'bold'}}>STUDENT</Text>
         </TouchableOpacity>
 
         {/*Button LECTURER*/}
         <TouchableOpacity
           onPress={() => navigation.navigate('LoginLecturer')}
           style={styles.buttonStyle}>
-          <Text style={{color:'#000000', textAlign:'center'}}>LECTURER</Text>
+          <Text style={{
+            color:'#000000', 
+            textAlign:'center',
+            fontWeight:'bold'}}>LECTURER</Text>
         </TouchableOpacity>
         </View>
         

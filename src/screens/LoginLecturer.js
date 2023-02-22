@@ -71,7 +71,8 @@ const LoginStudent = ({navigation}) => {
                             marginRight: 140,
                             fontSize: 15,
                             fontWeight: 'bold',
-                            color: '#ffffff'}}>Sign Up </Text>
+                            color: '#ffffff'
+                            }}>Sign Up </Text>
                 </TouchableOpacity>
                 <TouchableOpacity onPress={() => Alert.alert('Please go to the Unklab\ninformation system office\nfor more information')}>
                     <Text style={{

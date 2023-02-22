@@ -14,6 +14,7 @@ const LoginStudent = ({navigation}) => {
     const image = require("../images/background.jpg");
     const [regisnum, setRegisnum] =useState('');
     const [passwordS, setPaswordS] =useState('');
+    
     return (
         /*Background*/
     <ImageBackground 

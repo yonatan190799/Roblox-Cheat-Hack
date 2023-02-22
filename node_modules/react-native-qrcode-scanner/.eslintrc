@@ -1,0 +1,7 @@
+{
+  "parser": "babel-eslint",
+  "plugins": ["react-native"],
+  "env": {
+    "node": true
+  }
+}

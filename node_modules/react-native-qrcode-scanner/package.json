@@ -1,0 +1,65 @@
+{
+  "name": "react-native-qrcode-scanner",
+  "version": "1.5.5",
+  "description": "A QR code scanner for React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "precommit": "lint-staged"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moaazsidat/react-native-qrcode-scanner.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "ios",
+    "qrcode",
+    "qr",
+    "scanner",
+    "barcode"
+  ],
+  "author": "Moaaz Sidat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moaazsidat/react-native-qrcode-scanner/issues"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.13.4",
+    "prop-types": "^15.5.10",
+    "react-native-permissions": "^2.0.2"
+  },
+  "devDependencies": {
+    "@semantic-release/git": "^9.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^4.19.1",
+    "eslint-plugin-react-native": "^3.8.1",
+    "husky": "^0.14.3",
+    "lint-staged": "^7.1.0",
+    "prettier": "^1.12.1"
+  },
+  "peerDependencies": {
+    "react-native-camera": ">=1.0.2"
+  },
+  "homepage": "https://github.com/moaazsidat/react-native-qrcode-scanner#readme",
+  "release": {
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/npm",
+      "@semantic-release/github",
+      "@semantic-release/git"
+    ]
+  },
+  "lint-staged": {
+    "*.js": [
+      "prettier --single-quote --trailing-comma es5 --tab-width 2 --write",
+      "git add"
+    ]
+  },
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/react-native-qrcode-scanner"
+  }
+}

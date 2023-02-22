@@ -1,0 +1,39 @@
+com.apkabsenunklab.app-jetified-lifecycle-process-2.4.0-0 C:\Users\Babybuzz\.gradle\caches\transforms-3\00e31c29ff8f041470feab912fa976cf\transformed\jetified-lifecycle-process-2.4.0\res
+com.apkabsenunklab.app-recyclerview-1.1.0-1 C:\Users\Babybuzz\.gradle\caches\transforms-3\1192c7fae81408127f9d82fcefd585bc\transformed\recyclerview-1.1.0\res
+com.apkabsenunklab.app-jetified-play-services-basement-17.6.0-2 C:\Users\Babybuzz\.gradle\caches\transforms-3\15e3c73fba0820a37c22d3012ab68d9b\transformed\jetified-play-services-basement-17.6.0\res
+com.apkabsenunklab.app-jetified-tracing-1.1.0-3 C:\Users\Babybuzz\.gradle\caches\transforms-3\1d827142a9b723a9be3ec17b6ebe8f37\transformed\jetified-tracing-1.1.0\res
+com.apkabsenunklab.app-jetified-startup-runtime-1.0.0-4 C:\Users\Babybuzz\.gradle\caches\transforms-3\1f4e01bb3ef901f6a23e13fc59bd2bf9\transformed\jetified-startup-runtime-1.0.0\res
+com.apkabsenunklab.app-jetified-emoji2-1.0.0-5 C:\Users\Babybuzz\.gradle\caches\transforms-3\1f6b54f5cbdc781497e11a050562adc3\transformed\jetified-emoji2-1.0.0\res
+com.apkabsenunklab.app-jetified-annotation-experimental-1.1.0-6 C:\Users\Babybuzz\.gradle\caches\transforms-3\2e1cc7070f535d0f5dba19291365f91f\transformed\jetified-annotation-experimental-1.1.0\res
+com.apkabsenunklab.app-transition-1.2.0-7 C:\Users\Babybuzz\.gradle\caches\transforms-3\3444de6ee31c32042bfac5bde7fd8821\transformed\transition-1.2.0\res
+com.apkabsenunklab.app-appcompat-1.4.1-8 C:\Users\Babybuzz\.gradle\caches\transforms-3\390fec0296bc36742fba54a420c04065\transformed\appcompat-1.4.1\res
+com.apkabsenunklab.app-lifecycle-viewmodel-2.3.1-9 C:\Users\Babybuzz\.gradle\caches\transforms-3\3a0f4cd0fcb4e59d0eeaec7328d4dce2\transformed\lifecycle-viewmodel-2.3.1\res
+com.apkabsenunklab.app-jetified-play-services-base-17.6.0-10 C:\Users\Babybuzz\.gradle\caches\transforms-3\5a8275c8385214868a5c4c37cfef15ee\transformed\jetified-play-services-base-17.6.0\res
+com.apkabsenunklab.app-jetified-drawee-2.6.0-11 C:\Users\Babybuzz\.gradle\caches\transforms-3\64ab442615f3756bb46bd53f4069aea2\transformed\jetified-drawee-2.6.0\res
+com.apkabsenunklab.app-jetified-appcompat-resources-1.4.1-12 C:\Users\Babybuzz\.gradle\caches\transforms-3\793b781559eb20770a4345f46214991a\transformed\jetified-appcompat-resources-1.4.1\res
+com.apkabsenunklab.app-jetified-autofill-1.1.0-13 C:\Users\Babybuzz\.gradle\caches\transforms-3\79c6c13168c9a0f100196d628b24bf20\transformed\jetified-autofill-1.1.0\res
+com.apkabsenunklab.app-lifecycle-runtime-2.4.0-14 C:\Users\Babybuzz\.gradle\caches\transforms-3\872347ca18edf42f726b40efc9fc01d0\transformed\lifecycle-runtime-2.4.0\res
+com.apkabsenunklab.app-jetified-core-ktx-1.5.0-15 C:\Users\Babybuzz\.gradle\caches\transforms-3\89454c7f4ac0b9e53489a333b944caf5\transformed\jetified-core-ktx-1.5.0\res
+com.apkabsenunklab.app-cardview-1.0.0-16 C:\Users\Babybuzz\.gradle\caches\transforms-3\8af4bcd0e7bd4e899c6f74ff0520d65e\transformed\cardview-1.0.0\res
+com.apkabsenunklab.app-jetified-react-android-0.71.3-debug-17 C:\Users\Babybuzz\.gradle\caches\transforms-3\8b07754142de06fa88289354ebe36ee0\transformed\jetified-react-android-0.71.3-debug\res
+com.apkabsenunklab.app-jetified-flipper-0.125.0-18 C:\Users\Babybuzz\.gradle\caches\transforms-3\9112988e20ad25c32468b7d009f10311\transformed\jetified-flipper-0.125.0\res
+com.apkabsenunklab.app-core-1.7.0-19 C:\Users\Babybuzz\.gradle\caches\transforms-3\a74319f16e76beadbf53eb2669b709f5\transformed\core-1.7.0\res
+com.apkabsenunklab.app-jetified-savedstate-1.1.0-20 C:\Users\Babybuzz\.gradle\caches\transforms-3\d131f1b7c1a4ea769fa30823a7ba2cf3\transformed\jetified-savedstate-1.1.0\res
+com.apkabsenunklab.app-fragment-1.3.6-21 C:\Users\Babybuzz\.gradle\caches\transforms-3\d7cd89e67b3fcbe37b79b8208c0683fa\transformed\fragment-1.3.6\res
+com.apkabsenunklab.app-coordinatorlayout-1.1.0-22 C:\Users\Babybuzz\.gradle\caches\transforms-3\de2f586d8f3e60b06e5ec33b220a568f\transformed\coordinatorlayout-1.1.0\res
+com.apkabsenunklab.app-jetified-viewpager2-1.0.0-23 C:\Users\Babybuzz\.gradle\caches\transforms-3\e02b5f8f97fcd8bced077fff18b23eb1\transformed\jetified-viewpager2-1.0.0\res
+com.apkabsenunklab.app-jetified-emoji2-views-helper-1.0.0-24 C:\Users\Babybuzz\.gradle\caches\transforms-3\e856aa0533ca710bee3c904b6895d956\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.apkabsenunklab.app-media-1.0.0-25 C:\Users\Babybuzz\.gradle\caches\transforms-3\fda2915b05f9a4139e6938d429b1b4dd\transformed\media-1.0.0\res
+com.apkabsenunklab.app-material-1.1.0-26 C:\Users\Babybuzz\.gradle\caches\transforms-3\ff06b511a3b64a9f992a538e90dfb504\transformed\material-1.1.0\res
+com.apkabsenunklab.app-pngs-27 C:\Users\Babybuzz\Downloads\Skripsi 2\ApkAbsenUnklab\ApkAbsenUnklab\android\app\build\generated\res\pngs\debug
+com.apkabsenunklab.app-resValues-28 C:\Users\Babybuzz\Downloads\Skripsi 2\ApkAbsenUnklab\ApkAbsenUnklab\android\app\build\generated\res\resValues\debug
+com.apkabsenunklab.app-rs-29 C:\Users\Babybuzz\Downloads\Skripsi 2\ApkAbsenUnklab\ApkAbsenUnklab\android\app\build\generated\res\rs\debug
+com.apkabsenunklab.app-mergeDebugResources-30 C:\Users\Babybuzz\Downloads\Skripsi 2\ApkAbsenUnklab\ApkAbsenUnklab\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.apkabsenunklab.app-mergeDebugResources-31 C:\Users\Babybuzz\Downloads\Skripsi 2\ApkAbsenUnklab\ApkAbsenUnklab\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.apkabsenunklab.app-merged_res-32 C:\Users\Babybuzz\Downloads\Skripsi 2\ApkAbsenUnklab\ApkAbsenUnklab\android\app\build\intermediates\merged_res\debug
+com.apkabsenunklab.app-debug-33 C:\Users\Babybuzz\Downloads\Skripsi 2\ApkAbsenUnklab\ApkAbsenUnklab\android\app\src\debug\res
+com.apkabsenunklab.app-main-34 C:\Users\Babybuzz\Downloads\Skripsi 2\ApkAbsenUnklab\ApkAbsenUnklab\android\app\src\main\res
+com.apkabsenunklab.app-packaged_res-35 C:\Users\Babybuzz\Downloads\Skripsi 2\ApkAbsenUnklab\ApkAbsenUnklab\node_modules\react-native-camera\android\build\intermediates\packaged_res\generalDebug
+com.apkabsenunklab.app-packaged_res-36 C:\Users\Babybuzz\Downloads\Skripsi 2\ApkAbsenUnklab\ApkAbsenUnklab\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
+com.apkabsenunklab.app-packaged_res-37 C:\Users\Babybuzz\Downloads\Skripsi 2\ApkAbsenUnklab\ApkAbsenUnklab\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
+com.apkabsenunklab.app-packaged_res-38 C:\Users\Babybuzz\Downloads\Skripsi 2\ApkAbsenUnklab\ApkAbsenUnklab\node_modules\react-native-vector-icons\android\build\intermediates\packaged_res\debug
